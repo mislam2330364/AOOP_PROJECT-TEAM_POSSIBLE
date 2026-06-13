@@ -10,3 +10,12 @@ How to run:
 7. Run the "Login_register_page" file
 8. Register a new Account. The seed Credentials are- Username: demo_guest, demo_owner; Password: password123 
 9. Enjoy
+
+To test multiplayer:
+1. Build the project (a separate .exe build of the game)
+2. Run in both the Unity Editor (as instructed above) and the .exe build
+3. For the host: Start a new game or load a game
+4. Press Esc
+5. Click on the Invite a Friend button and click the copy button
+6. For the guest: Paste that code in the Join a Friend option after logging in
+7. Enjoy  
