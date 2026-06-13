@@ -1,4 +1,5 @@
 Unity Project Files: https://drive.google.com/drive/folders/1rBHx4y4qIUw6HJWEl7tyZr9Ql3TWdABl
+
 How to run:
 1. Import the Schema and Seed File (Located inside "DB" folder).
 2. Open the project in IDE (The project is inside the "wasteland-survivors-backend.zip" file.
